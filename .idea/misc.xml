@@ -6,11 +6,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/mycrud/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Home/mycrud/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://C:/User/SergeyND/YandexDisk/Java/git_exercise/out" />
   </component>
 </project>

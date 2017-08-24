@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Study/Study.iml" filepath="$PROJECT_DIR$/Study/Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/Study/.idea/git_exercise.iml" filepath="$PROJECT_DIR$/Study/.idea/git_exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycrud/mycrud.iml" filepath="$PROJECT_DIR$/mycrud/mycrud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../Home/mycrud/spring.iml" filepath="$PROJECT_DIR$/../../Home/mycrud/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycrud/spring.iml" filepath="$PROJECT_DIR$/mycrud/spring.iml" />
     </modules>
   </component>
 </project>

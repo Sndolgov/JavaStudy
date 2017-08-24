@@ -18,16 +18,6 @@
     <facet type="Spring" name="Spring">
       <configuration />
     </facet>
-    <facet type="hibernate" name="Hibernate">
-      <configuration>
-        <datasource-map>
-          <unit-entry name="hibernate.cfg.xml" value="71e0ef6f-a9ad-4bb0-a6f7-b94da7bcd9e4" />
-          <unit-entry name="hibernate4AnnotatedSessionFactory" value="dataSource" />
-        </datasource-map>
-        <naming-strategy-map />
-        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/java/hibernate.cfg.xml" />
-      </configuration>
-    </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/../../../Home/mycrud/target/classes" />
@@ -40,9 +30,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Hibernate 5.2.10-5.2.10" level="project" />
-    <orderEntry type="library" name="Hibernate 5.2.10-5.2.10 (2)" level="project" />
-    <orderEntry type="library" name="Hibernate 5.2.10-5.2.10 (3)" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
