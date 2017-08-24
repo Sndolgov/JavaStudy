@@ -2,84 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="046ea9a3-6c43-40d5-9a5e-0d3920b08ad5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Study/Study.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/Arcanoid.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/Arcanoid.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/Ball.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/Ball.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/BasicObject.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/BasicObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/Bricks.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/Bricks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/Field.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/Field.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/HelloWorld.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/HelloWorld.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/KeyboardObserver.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/KeyboardObserver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/Solution.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Arcanoid/Stand.java" afterPath="$PROJECT_DIR$/Study/src/Arcanoid/Stand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/Archiver.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/Archiver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/CommandExecutor.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/CommandExecutor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/ConsoleHelper.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/ConsoleHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/FileManager.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/FileManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/FileProperties.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/FileProperties.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/Operation.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/Operation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/ZipFileManager.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/ZipFileManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/Command.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/Command.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/ExitCommand.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/ExitCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/ZipAddCommand.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/ZipAddCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/ZipCommand.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/ZipCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/ZipContentCommand.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/ZipContentCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/ZipCreateCommand.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/ZipCreateCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/ZipExtractCommand.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/ZipExtractCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/command/ZipRemoveCommand.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/command/ZipRemoveCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/exception/PathIsNotFoundException.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/exception/PathIsNotFoundException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/exception/WrongZipFileException.java" afterPath="$PROJECT_DIR$/Study/src/Archiver/exception/WrongZipFileException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Archiver/Условие.jrtc" afterPath="$PROJECT_DIR$/Study/src/Archiver/Условие.jrtc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/Connection.java" afterPath="$PROJECT_DIR$/Study/src/Chat/Connection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/ConsoleHelper.java" afterPath="$PROJECT_DIR$/Study/src/Chat/ConsoleHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/Message.java" afterPath="$PROJECT_DIR$/Study/src/Chat/Message.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/MessageType.java" afterPath="$PROJECT_DIR$/Study/src/Chat/MessageType.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/Server.java" afterPath="$PROJECT_DIR$/Study/src/Chat/Server.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/ServerController.java" afterPath="$PROJECT_DIR$/Study/src/Chat/ServerController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/ServerView.java" afterPath="$PROJECT_DIR$/Study/src/Chat/ServerView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/client/BotClient.java" afterPath="$PROJECT_DIR$/Study/src/Chat/client/BotClient.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/client/Client.java" afterPath="$PROJECT_DIR$/Study/src/Chat/client/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/client/ClientGuiController.java" afterPath="$PROJECT_DIR$/Study/src/Chat/client/ClientGuiController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/client/ClientGuiModel.java" afterPath="$PROJECT_DIR$/Study/src/Chat/client/ClientGuiModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/client/ClientGuiView.java" afterPath="$PROJECT_DIR$/Study/src/Chat/client/ClientGuiView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chat/Условие.jrtc" afterPath="$PROJECT_DIR$/Study/src/Chat/Условие.jrtc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/Controller.java" afterPath="$PROJECT_DIR$/Study/src/Game2048/Controller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/Main.java" afterPath="$PROJECT_DIR$/Study/src/Game2048/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/Model.java" afterPath="$PROJECT_DIR$/Study/src/Game2048/Model.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/Move.java" afterPath="$PROJECT_DIR$/Study/src/Game2048/Move.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/MoveEfficiency.java" afterPath="$PROJECT_DIR$/Study/src/Game2048/MoveEfficiency.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/Tile.java" afterPath="$PROJECT_DIR$/Study/src/Game2048/Tile.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/View.java" afterPath="$PROJECT_DIR$/Study/src/Game2048/View.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game2048/Условие.jrtc" afterPath="$PROJECT_DIR$/Study/src/Game2048/Условие.jrtc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/Controller.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/Controller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/ExceptionHandler.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/ExceptionHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/HTMLFileFilter.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/HTMLFileFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/JEditorPaneTest.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/JEditorPaneTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/MenuHelper.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/MenuHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/View.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/View.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/actions/About.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/actions/About.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/actions/RedoAction.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/actions/RedoAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/actions/StrikeThroughAction.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/actions/StrikeThroughAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/actions/SubscriptAction.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/actions/SubscriptAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/actions/SuperscriptAction.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/actions/SuperscriptAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/actions/UndoAction.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/actions/UndoAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/listeners/FrameListener.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/listeners/FrameListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/listeners/JMenuTest.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/listeners/JMenuTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/listeners/TabbedPaneChangeListener.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/listeners/TabbedPaneChangeListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/listeners/TextEditMenuListener.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/listeners/TextEditMenuListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/listeners/UndoListener.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/listeners/UndoListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/listeners/UndoMenuListener.java" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/listeners/UndoMenuListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HTMLeditor/Условие.jrtc" afterPath="$PROJECT_DIR$/Study/src/HTMLeditor/Условие.jrtc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Snake/KeyboardObserver.java" afterPath="$PROJECT_DIR$/Study/src/Snake/KeyboardObserver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Snake/Mouse.java" afterPath="$PROJECT_DIR$/Study/src/Snake/Mouse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Snake/Room.java" afterPath="$PROJECT_DIR$/Study/src/Snake/Room.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Snake/Snake.java" afterPath="$PROJECT_DIR$/Study/src/Snake/Snake.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Snake/SnakeDirection.java" afterPath="$PROJECT_DIR$/Study/src/Snake/SnakeDirection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Snake/SnakeSection.java" afterPath="$PROJECT_DIR$/Study/src/Snake/SnakeSection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Snake/Условие задачи.txt" afterPath="$PROJECT_DIR$/Study/src/Snake/Условие задачи.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycrud/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Study/.idea/modules.xml" afterPath="$PROJECT_DIR$/Study/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Study/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Study/.idea/workspace.xml" />
     </list>
     <ignored path="git_exercise.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/mycrud/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +25,18 @@
     <favorites_list name="git_exercise" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycrud/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,6 +77,7 @@
         <option value="$PROJECT_DIR$/src/task3209/MenuHelper.java" />
         <option value="$PROJECT_DIR$/src/HTMLeditor/Controller.java" />
         <option value="$PROJECT_DIR$/src/Game2048/Условие.jrtc" />
+        <option value="$PROJECT_DIR$/mycrud/pom.xml" />
       </list>
     </option>
   </component>
@@ -143,6 +86,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -176,6 +126,51 @@
               <item name="git_exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="git_exercise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="git_exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="mycrud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git_exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="mycrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git_exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="mycrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git_exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="mycrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git_exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="mycrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git_exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="mycrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sergey" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,6 +191,7 @@
       <recent name="C:\Users\SergeyND\YandexDisk\Java\git_exercise" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SergeyND\YandexDisk\Java\git_exercise\mycrud" />
       <recent name="C:\Users\SergeyND\YandexDisk\Java\git_exercise" />
       <recent name="C:\Users\SergeyND\YandexDisk\Java\git_exercise\src" />
     </key>
@@ -553,12 +549,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495181741331</updated>
       <workItem from="1503565297104" duration="184000" />
-      <workItem from="1503565713993" duration="1766000" />
+      <workItem from="1503565713993" duration="2204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1950000" />
+    <option name="totallyTimeSpent" value="2388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -568,11 +564,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3300866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -620,20 +618,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Study/src/Snake/Mouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/src/Snake/SnakeDirection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Study/src/Snake/KeyboardObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1016,6 +1000,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/.idea/git_exercise.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycrud/com/sergey/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycrud/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
