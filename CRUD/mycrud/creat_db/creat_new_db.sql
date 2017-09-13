@@ -1,0 +1,17 @@
+DROP DATABASE IF EXISTS Usersbase;
+
+CREATE DATABASE Usersbase;
+
+USE Usersbase;
+
+CREATE TABLE `Users`
+(
+	`id` INT(8) NOT NULL AUTO_INCREMENT,
+	`name` VARCHAR(25) NOT NULL DEFAULT '0',
+	`age` INT NOT NULL DEFAULT '0',
+	`isAdmin` BIT(1) NOT NULL DEFAULT b'0',
+	`createdDate` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+	PRIMARY KEY (`id`)
+)
+	COLLATE='utf8_general_ci';
+
