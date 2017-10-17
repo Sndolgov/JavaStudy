@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/inspectionProfiles/
+lib/
+.idea/artifacts/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/libraries/
+bookshelves/

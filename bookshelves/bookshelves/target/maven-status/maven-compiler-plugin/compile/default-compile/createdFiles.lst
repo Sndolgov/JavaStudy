@@ -1,9 +1,0 @@
-com\sergey\paging\PagerTag.class
-com\Main.class
-com\sergey\BookServiceImpl.class
-com\sergey\Book.class
-com\sergey\paging\ListPage.class
-com\sergey\BookDao.class
-com\sergey\BookDaoImpl.class
-com\sergey\BookController.class
-com\sergey\BookService.class
