@@ -1,0 +1,2 @@
+# JavaStudy
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d011d79c71f9474ab00892d0d3a182cd)](https://www.codacy.com/app/Sndolgov/JavaStudy?utm_source=github.com&utm_medium=referral&utm_content=Sndolgov/JavaStudy&utm_campaign=badger)
